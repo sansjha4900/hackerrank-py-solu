@@ -28,4 +28,5 @@ if n % 2 == 0:
 else:
     print("Weird")
 
-# Input = 3, Output = Weird
+# Input = 3
+# Output = Weird
