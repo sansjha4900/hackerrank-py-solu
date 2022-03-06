@@ -10,4 +10,5 @@
 my_string = "Hello, World!"
 print (my_string)
 
+# Input as a string
 # Output : Hello, World!
