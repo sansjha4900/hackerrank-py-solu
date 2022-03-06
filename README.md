@@ -1,1 +1,1 @@
-# hackerrank-py-solu
+Hacker Rank Python Exercises Solution
